@@ -1,114 +1,158 @@
-# Hi 👋, I'm Dharan D
+<div align="center">
 
-## 🛡️ Cyber Security Engineer | Ethical Hacker | Aspiring Red Teamer
+# 👋 Hi, I'm Dharan D
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Cyber+Security+Engineer;Ethical+Hacker;Aspiring+Red+Teamer;Penetration+Tester;Security+Engineer;Always+Learning!)
+### 🛡️ Cyber Security Engineer | Ethical Hacker | Aspiring Red Team Operator
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cyber+Security+Engineer;Ethical+Hacker;Python+Developer;Red+Team+Enthusiast;Always+Learning+Something+New" />
 
-- 🎓 B.E. Computer Science & Engineering (Cyber Security)
-- 🛡️ Aspiring Red Team Operator & Penetration Tester
-- 🌱 Currently learning:
-  - Red & Blue Teaming
-  - Active Directory
-  - Windows Internals
-  - Privilege Escalation
-  - Command & Control (C2)
-  - Malware Analysis
-  - Reverse Engineering
-  - Cloud Security (AWS)
-- 💻 Building offensive security tools in Python
-- 🚩 Active on TryHackMe & PortSwigger Academy
+<p>
+<a href="https://github.com/Dharan24-arch">
+<img src="https://img.shields.io/github/followers/Dharan24-arch?style=for-the-badge&logo=github">
+</a>
 
-## 🌐 Connect
+<a href="https://www.linkedin.com/in/dharan-d-5719192a1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-- LinkedIn: https://www.linkedin.com/in/dharan-d-5719192a1
-- Portfolio: https://dharand.netlify.app/
-- Email: dharandharan576@gmail.com
+<a href="https://dharand.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome">
+</a>
 
-## 💻 Tech Stack
+<a href="mailto:dharandharan576@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+</a>
 
-Python • Bash • Java • HTML • CSS • JavaScript • Linux • Git • Docker
+</p>
 
-## 🛠 Security Tools
+</div>
 
-Burp Suite • Nmap • SQLMap • Metasploit • Wireshark • BloodHound • CrackMapExec • NetExec • Mimikatz • Evil-WinRM • Impacket • Gobuster • FFUF • Hydra • Nessus • OWASP ZAP
+---
 
-## 🧠 Core Skills
+# 🚀 About Me
 
-- Red Teaming
-- Penetration Testing
-- VAPT
-- Web Application Security
-- Active Directory Security
-- Network Security
-- API Security
-- MITRE ATT&CK
-- Threat Hunting
-- SIEM
+🎓 B.E. Computer Science & Engineering (Cyber Security)
 
-# 🚀 Featured Projects
+🛡️ Passionate about Offensive Security, Web Security & Red Teaming
 
-## 🔍 DeepProbe – AI-Powered Network Scanner
-AI-assisted network reconnaissance and port scanner.
+💻 Building Security Automation Tools using Python
 
-Repository:
-https://github.com/Dharan24-arch/Deepprobe-
+🌐 Exploring Active Directory, Malware Analysis & Cloud Security
 
-## 🛰️ APT Detection Using Machine Learning & Network Flow Analysis
-Final-year project using Gradient Boosting to detect Advanced Persistent Threats.
+🚩 Active on TryHackMe, PortSwigger Academy & CTF Platforms
 
-## 📹 Smart Surveillance System
-Arduino Nano + SIM800L GSM security monitoring system.
+---
 
-## 🌐 Portfolio
-https://dharand.netlify.app/
-
-# 🏆 Certifications
-
-- CCNA
-- CCNP
-- Zscaler Zero Trust Associate
-- Palo Alto Cybersecurity Foundation
-- Ethical Hacking 
-
-# 💼 Interested Roles
-
-- Red Team Operator
-- Penetration Tester
-- VAPT Analyst
-- Security Engineer
-- Offensive Security Engineer
-- Application Security Engineer
-- SOC Analyst
-- Cloud Security Engineer
-
-# 🔥 Current Focus
-
-- Enterprise Red Teaming
-- Active Directory Labs
-- Malware Analysis
-- Web Exploitation
-- Detection Evasion
-- Cloud Offensive Security
-
-# 📊 GitHub Statistics
+# 💻 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharan24-arch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharan24-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,bash,java,linux,docker,git,github,html,css,js,vscode"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔐 Security Tools
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharan24-arch&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2E86DE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP_ZAP-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gobuster-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FFUF-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BloodHound-darkred?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Impacket-darkgreen?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🧠 Core Skills
+
+- Penetration Testing
+- Red Teaming
+- Vulnerability Assessment
+- Web Application Security
+- Active Directory Security
+- API Security
+- Network Security
+- Threat Hunting
+- SIEM
+- MITRE ATT&CK
+
+---
+
+# 🚀 Featured Projects
+
+## 🔍 DeepProbe
+
+AI-assisted Network Mapping & Reconnaissance Tool
+
+🔗 https://github.com/Dharan24-arch/Deepprobe-
+
+---
+
+## 🛰️ Advanced Persistent Threat Detection
+
+Machine Learning based APT Detection using Network Flow Analysis
+
+---
+
+## 📹 Smart Surveillance System
+
+Arduino Nano + GSM based Intelligent Security Monitoring
+
+---
+
+## 🌐 Portfolio
+
+https://dharand.netlify.app/
+
+---
+
+# 🏆 Certifications
+
+- Cisco CCNA
+- Cisco CCNP
+- Zscaler Zero Trust Associate
+- Palo Alto Networks Cybersecurity Foundation
+- Ethical Hacking Certifications
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharan24-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharan24-arch&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharan24-arch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -128,22 +172,58 @@ https://dharand.netlify.app/
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dharan24-arch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dharan24-arch&theme=tokyonight&margin-w=10&margin-h=10"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dharan24-arch&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://raw.githubusercontent.com/Dharan24-arch/Dharan24-arch/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
-## 🐍 Snake Animation
+---
 
-https://github.com/Platane/snk
+# 💼 Looking For
 
-> "Security is not a product, but a process." — Bruce Schneier
+- 🔴 Red Team Operator
+- 🛡️ Security Engineer
+- 💻 Penetration Tester
+- 🔍 VAPT Analyst
+- ☁️ Cloud Security Engineer
+- 🔐 Application Security Engineer
+- 📈 SOC Analyst
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dharan-d-5719192a1">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://dharand.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="mailto:dharandharan576@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ "Security is not a product, but a process."
+
+**Thanks for visiting my profile!**
+
+</div>
