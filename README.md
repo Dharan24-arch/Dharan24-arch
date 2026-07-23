@@ -84,18 +84,34 @@ Arduino Nano + GSM based Intelligent Security Monitoring.
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharan24-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Dharan24-arch&theme=tokyonight&hide_border=true"/>
-</p>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?
+username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
+er=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/
+top-langs/?
+username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
+r=true"/>
+</p>--
+# 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharan24-arch&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?
+user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+</p>--
+# 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?
+username=[GitHubUsername]&theme=tokyo-night"/>
+</p>--
+# 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?
+username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin
+w=10"/>
+</p>--
+
+
+
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
