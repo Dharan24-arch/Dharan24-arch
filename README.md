@@ -101,8 +101,11 @@ Arduino Nano + GSM based Intelligent Security Monitoring.
 <img src="https://github-profile-trophy.vercel.app/?username=Dharan24-arch&theme=tokyonight&no-frame=true"/>
 </p>
 
-> To enable the snake animation, add the Platane/snk GitHub Action to your repository.
+<h2 align="center">🐍 Contribution Snake</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dharan24-arch/Dharan24-arch/output/github-contribution-grid-snake-dark.svg">
+</p>
 ---
 
 ## 💼 Open To
