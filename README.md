@@ -92,13 +92,55 @@ https://dharand.netlify.app/
 - Detection Evasion
 - Cloud Offensive Security
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-Replace YOUR_USERNAME below if needed:
+<p align="center">
 
-https://github-readme-stats.vercel.app/api?username=Dharan24-arch&show_icons=true&theme=tokyonight
-https://github-readme-streak-stats.herokuapp.com/?user=Dharan24-arch&theme=tokyonight
-https://github-readme-activity-graph.vercel.app/graph?username=Dharan24-arch&theme=tokyo-night
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharan24-arch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharan24-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharan24-arch&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharan24-arch&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dharan24-arch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Dharan24-arch&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 
 ## 🐍 Snake Animation
 
